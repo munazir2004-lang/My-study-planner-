@@ -1,0 +1,6 @@
+{
+  "name": "My Study Planner",
+  "description": "Smart Study & Work Planner with Hindi/English support, focus timer, daily timeline, automatic performance remarks, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
